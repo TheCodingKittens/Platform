@@ -19,7 +19,7 @@ You are able to all the Backend Redoc information at this url:
 
 ```localhost:8000/docs```
 
-You can view the Data in the database at this url:
+You can view the Data in the Redis database at this url:
 
 ```localhost:8001```
 
